@@ -44,5 +44,25 @@ To run this notebook:
 3. Open the notebook in Jupyter Lab or Jupyter Notebook.
 4. Run the cells sequentially.
 
+#### License
+This project is released under the MIT License. This license permits you to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, and to permit persons to whom the software is furnished to do so, subject to the following conditions:
+- The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
+#### Contact Information
+For any questions or further information, please reach out to:
 
+- **Name**: [Your Name or Organization]
+- **Email**: [Your Email]
+- **GitHub**: [Your GitHub Profile Link]
+
+- **Name**: [Your Name or Organization]
+- **Email**: [Your Email]
+- **GitHub**: [Your GitHub Profile Link]
+
+- **Name**: [Your Name or Organization]
+- **Email**: [Your Email]
+- **GitHub**: [Your GitHub Profile Link]
+
+- **Name**: [Your Name or Organization]
+- **Email**: [Your Email]
+- **GitHub**: [Your GitHub Profile Link]
